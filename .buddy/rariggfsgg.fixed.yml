@@ -1,0 +1,4 @@
+- pipeline: rariggfsgg
+  refs:
+  - refs/heads/master
+  on: CLICK
